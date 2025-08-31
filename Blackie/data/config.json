@@ -1,0 +1,5 @@
+{
+    "target_url": "https://polri.go.id/vulnerable.php?id=",
+    "timeout": 5,
+    "max_retries": 3
+}
